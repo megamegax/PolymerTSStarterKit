@@ -10,7 +10,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 /// <reference path="../typings/auto.d.ts" />
 
 //CUSTOM COMPONENTS
-import 'elements/media-player/media-player';
+import 'elements/test-component/test-component';
 
 //IRON COMPONENTS
 import 'polymer/iron-flex-layout/iron-flex-layout.html!';

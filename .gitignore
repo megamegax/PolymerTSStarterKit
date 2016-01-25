@@ -3,4 +3,5 @@ dist
 bower_components
 .tmp
  +app/scripts/*.js
+ +app/elements/**/*.js
  +!app/scripts/app.js
